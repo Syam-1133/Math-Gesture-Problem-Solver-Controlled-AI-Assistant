@@ -65,7 +65,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the Repository**:
    Clone this repository to your local machine using Git:
    ```bash
-   https://github.com/Syam-1133/-Math-Gesture-Problem-Solver-Controlled-AI-Assistant-
+   https://github.com/Syam-1133/Math-Gesture-Problem-Solver-Controlled-AI-Assistant
    
 GENAI_API_KEY = "enter your'e API key"
 
