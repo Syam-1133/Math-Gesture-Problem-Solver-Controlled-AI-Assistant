@@ -58,7 +58,7 @@ Before you begin, ensure you have the following installed:
 
 - Python 3.7 or higher
 - A working webcam
-- **Gemini AI API Key** (replace the placeholder in the code with your actual API key)
+- **Gemini AI API Key** 
 
 ### Steps to Set Up the Project
 
