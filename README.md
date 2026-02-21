@@ -3,7 +3,7 @@
 ## 📜 Description
 The **Math Gesture Problem Solver Controlled AI Assistant** is an innovative project that allows users to interact with an AI to solve math problems using hand gestures. This project integrates **computer vision** for gesture recognition and a **generative AI model** for solving math problems.
 
-The user can **draw math problems** on a canvas using their fingers, and with a specific hand gesture, the system will send the drawn problem to an **AI-powered math solver** and return the solution in real time. hi
+The user can **draw math problems** on a canvas using their fingers, and with a specific hand gesture, the system will send the drawn problem to an **AI-powered math solver** and return the solution in real time.
 
 ### 🔑 Key Features:
 - **✍️ Gesture-based Drawing**: Use your **index finger** to draw math problems like equations and expressions.
